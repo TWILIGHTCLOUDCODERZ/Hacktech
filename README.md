@@ -58,4 +58,5 @@ Predict CO2 emissions from cars with Azure Machine Learning
  ![image](https://user-images.githubusercontent.com/101945531/222965580-6211f315-e9bc-4af2-8267-9fa1e6752420.png)
 
 <li> select Designer and then select the plus sign (+) to create a new pipeline  
+  
 ![image](https://user-images.githubusercontent.com/101945531/222965459-a7a58c70-0dd2-45ff-b07a-f43d20eaec42.png)
