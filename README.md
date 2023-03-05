@@ -10,8 +10,11 @@ Predict CO2 emissions from cars with Azure Machine Learning
 ![3](https://user-images.githubusercontent.com/101945531/222964635-aa46c568-2484-4517-94d5-272db06468f8.png)
 
 ## Create an Azure Machine Learning workspace
-<li> 1- Sign in to Azure Portal and select Create a resource.
-<li> 2-Search for Machine Learning and then click Create to start
-<li> 3-Configure the new Machine Learning resource.Select subscription, resource group, workspace name, region and click Review-Create.
-<li> 4-Wait for the workspace to be created (it may take several minutes) and then select Go to resource
-<li> 5-Click on Studio Web URL to go to your Azure Machine Learning workspace.
+<li> Sign in to Azure Portal and select Create a resource.
+<li> Search for Machine Learning and then click Create to start
+<li> Configure the new Machine Learning resource.Select subscription, resource group, workspace name, region and click Review-Create.
+<li> Wait for the workspace to be created (it may take several minutes) and then select Go to resource
+<li> Click on Studio Web URL to go to your Azure Machine Learning workspace.
+  
+## workspace
+
