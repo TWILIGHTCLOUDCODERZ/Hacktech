@@ -39,3 +39,16 @@ Predict CO2 emissions from cars with Azure Machine Learning
 
 ![image](https://user-images.githubusercontent.com/101945531/222965263-ae7c8a04-6325-4719-b1b1-d44b5a49a0ca.png)
 
+<li>Customize data parameter 
+  
+![image](https://user-images.githubusercontent.com/101945531/222965329-35335ca2-b1d9-4ed1-91b0-981c3dcbb815.png)
+  
+<li>Change the schema type as per data type
+  
+![image](https://user-images.githubusercontent.com/101945531/222965367-6db8c604-8829-40f6-b559-53d5dc5c23cf.png)
+  
+<li>Review and Create
+  
+![image](https://user-images.githubusercontent.com/101945531/222965396-a42c0ac1-802a-417d-88d7-57a806ce89ce.png)
+
+
