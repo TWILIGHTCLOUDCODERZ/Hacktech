@@ -53,10 +53,24 @@ Predict CO2 emissions from cars with Azure Machine Learning
 
 ## Create a new pipeline
 
-<li> select Designer and then select the plus sign (+) to create a new pipeline
+<li> Select Designer and then select the plus sign (+) to create a new pipeline
   
  ![image](https://user-images.githubusercontent.com/101945531/222965580-6211f315-e9bc-4af2-8267-9fa1e6752420.png)
 
-<li> select Designer and then select the plus sign (+) to create a new pipeline  
+<li> Expand the Datasets section, select the dataset carbon-control and drag it onto the canvas  
   
 ![image](https://user-images.githubusercontent.com/101945531/222965459-a7a58c70-0dd2-45ff-b07a-f43d20eaec42.png)
+  
+<li> Data transformation section drag Split data module onto the canvas and connect the dataset’s output port to the Split data module. Simply drag from the dataset’s output port to the Split data module’s input port.
+  
+ ![image](https://user-images.githubusercontent.com/101945531/222965756-6ee41b21-a8e0-46b7-8e41-9b080cc1e97d.png)
+  
+ <li> Machine Learning Algorithms and under Regression select the Linear Regression module and drag it onto the canvas
+   
+  ![image](https://user-images.githubusercontent.com/101945531/222965784-8e2f3ac2-e210-4a2a-bc2e-796bf731d240.png)
+   
+    <li> Machine Learning Algorithms and under Regression select the Linear Regression module and drag it onto the canvas
+
+      ![image](https://user-images.githubusercontent.com/101945531/222965814-e36b8b05-031f-4a76-9394-d1845253698e.png)
+
+
