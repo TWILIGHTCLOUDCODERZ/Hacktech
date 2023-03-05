@@ -77,4 +77,12 @@ Predict CO2 emissions from cars with Azure Machine Learning
     
  ![image](https://user-images.githubusercontent.com/101945531/222965924-2e9f5970-2dd0-44d7-bf63-54955c20520b.png)
 
+<li> Model Scoring and Evaluation section, select the Evaluate Model module. Connect the output of the Score Model module to the left input of the Evaluate Model module
+  
+![image](https://user-images.githubusercontent.com/101945531/222965983-04439f5d-bee6-469c-bc9e-ab1afd6f556b.png)
+  
+<br>
+  
+![image](https://user-images.githubusercontent.com/101945531/222965996-a165b85b-9789-4ac7-b244-993d28800442.png)
 
+  
