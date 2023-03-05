@@ -19,4 +19,6 @@ Predict CO2 emissions from cars with Azure Machine Learning
   
 ## workspace
 
-<li> create dataset->select Datasets and then select + Create Dataset > From local files
+<li> Create dataset->select Datasets and then select + Create Dataset > From local files
+![image](https://user-images.githubusercontent.com/101945531/222964816-fc516768-11ff-4221-bbff-096c4ac1680f.png)
+<li> Provide a name and description for the dataset.
