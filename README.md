@@ -69,8 +69,8 @@ Predict CO2 emissions from cars with Azure Machine Learning
    
   ![image](https://user-images.githubusercontent.com/101945531/222965784-8e2f3ac2-e210-4a2a-bc2e-796bf731d240.png)
    
-    <li> Machine Learning Algorithms and under Regression select the Linear Regression module and drag it onto the canvas
-
-      ![image](https://user-images.githubusercontent.com/101945531/222965814-e36b8b05-031f-4a76-9394-d1845253698e.png)
+<li> Machine Learning Algorithms and under Regression select the Linear Regression module and drag it onto the canvas
+  
+ ![image](https://user-images.githubusercontent.com/101945531/222965814-e36b8b05-031f-4a76-9394-d1845253698e.png)
 
 
