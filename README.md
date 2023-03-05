@@ -9,8 +9,8 @@ Predict CO2 emissions from cars with Azure Machine Learning
   
 [Swagger Json](https://eastus2.api.azureml.ms/pipelines/swagger/pipelineendpointsubmit/swagger.json)
   
-
 <br>
+
 ## Problem
 
 ![2](https://user-images.githubusercontent.com/101945531/222964587-ad6d4324-9141-4ddf-8116-14edde1facd6.png)
