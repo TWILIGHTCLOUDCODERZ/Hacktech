@@ -85,4 +85,24 @@ Predict CO2 emissions from cars with Azure Machine Learning
   
 ![image](https://user-images.githubusercontent.com/101945531/222965996-a165b85b-9789-4ac7-b244-993d28800442.png)
 
+  ## Training model
   
+  ![image](https://user-images.githubusercontent.com/101945531/222966040-d25c403f-1442-47b6-bec6-f0d4a3af4030.png)
+
+  
+  ## Set up Compute target
+  
+  <li> Select the settings icon. In the setting pane, under Default compute target click on Select compute target.
+ 
+ ![image](https://user-images.githubusercontent.com/101945531/222966104-ba1d8d11-55aa-4205-b7cc-3b681b76f03e.png)
+  
+    <li> Depends on your need create compute target ( cpu/gpu core is high time consumption will be reduced)
+      
+ ![image](https://user-images.githubusercontent.com/101945531/222966152-7911ac81-0dbd-4729-a6d5-e5addaad6a1a.png)
+      
+      <br>
+      
+ [image](https://user-images.githubusercontent.com/101945531/222966182-4a0f8e54-06b4-4cbc-9ac4-3414193b7e93.png)
+
+     
+
