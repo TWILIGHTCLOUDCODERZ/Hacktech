@@ -27,8 +27,15 @@ Predict CO2 emissions from cars with Azure Machine Learning
   
 ![image](https://user-images.githubusercontent.com/101945531/222965015-6c48fc2a-72e6-4fd3-8d50-290d40d670aa.png)
 
-<li> In Datastore and file selection select Browse and choose the file on your local computer (U CAN CHOOSE OTHER RESOURCES LIKE COSMODB,BLOB, ONLINE SERVICES ENDPOINT)
-
+<li> In Datastore and file selection select Browse and choose the file on your local computer
+  
 ![image](https://user-images.githubusercontent.com/101945531/222965085-bf68a69c-c4b0-4957-afca-b498537d9825.png)
 
-<li> 
+<li>Select database type where your data result needs to be stored
+  
+![image](https://user-images.githubusercontent.com/101945531/222965209-692452c9-8e13-40ef-9f67-7f067a9130ac.png)
+  
+<li>Upload data from local machine U CAN CHOOSE OTHER RESOURCES LIKE COSMODB,BLOB, ONLINE SERVICES ENDPOINT)
+
+![image](https://user-images.githubusercontent.com/101945531/222965263-ae7c8a04-6325-4719-b1b1-d44b5a49a0ca.png)
+
