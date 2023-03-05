@@ -92,17 +92,36 @@ Predict CO2 emissions from cars with Azure Machine Learning
   
   ## Set up Compute target
   
-  <li> Select the settings icon. In the setting pane, under Default compute target click on Select compute target.
+ <li> Select the settings icon. In the setting pane, under Default compute target click on Select compute target.
  
  ![image](https://user-images.githubusercontent.com/101945531/222966104-ba1d8d11-55aa-4205-b7cc-3b681b76f03e.png)
   
-    <li> Depends on your need create compute target ( cpu/gpu core is high time consumption will be reduced)
-      
+ <li> Depends on your need create compute target ( cpu/gpu core is high time consumption will be reduced)
+   
  ![image](https://user-images.githubusercontent.com/101945531/222966152-7911ac81-0dbd-4729-a6d5-e5addaad6a1a.png)
       
-      <br>
+<br>
       
  [image](https://user-images.githubusercontent.com/101945531/222966182-4a0f8e54-06b4-4cbc-9ac4-3414193b7e93.png)
+   
+ ## Run the training pipeline
+   
+<li> Set up pipeline run form, select Create new, enter a name for the experiment and click Submit. 
+  
+![image](https://user-images.githubusercontent.com/101945531/222966252-317fd4c9-c68e-462c-8752-7ea6e0538f14.png)
+  
+ <li> Monitor the pipeline job run
+   
+ ![image](https://user-images.githubusercontent.com/101945531/222966287-d4e90865-e788-4bba-870c-419aa7e5a2fb.png)
+   
+ ## Result 
+   
+ <li>Right-click the Score Model and select Visualize > Scored dataset. The last two columns of the dataset are the actual and the predicted CO2 emissions
+   
+ ![image](https://user-images.githubusercontent.com/101945531/222966324-a3b0ec8f-e7e9-4b5c-91a3-379c4c0deb32.png)
+
+  
+   
 
      
 
